@@ -1,0 +1,17 @@
+20 add
+21 addu
+22 sub
+24 and
+25 or
+26 xor
+27 nor
+28 nand
+2a slt
+00 sll
+02 srl
+03 sra
+08 jr
+18 mult
+19 multu
+10 mfhi
+12 mflo
